@@ -1,0 +1,3 @@
+//I included a snippet of another option I could have done for this assignment incorporating a for loop instead of a while loop. It
+Ran without any compiling/errors. However, prior to submission I had a peer review and it seemed that the general consensus was that it was
+more common to use a while loop in this scenario.//. So I redid the code using a while loop.
