@@ -29,7 +29,7 @@ public class Main {
             }
             i++;
 
-        }//if (attempts == 0) *You lose message at end*//
+        }//if (attempts == 0) You lose message at end
         System.out.println("You Lose" + "The number was: " + randomInt);
 
         scanner.close();
