@@ -1,7 +1,7 @@
 # 🎲 Higher-Lower Number Guessing Game 🎯  
 
 ## 📌 Overview  
-A command-line game where players try to guess a randomly generated number between 1 and 100! This project demonstrates clean code, user interaction, and error handling in Java.  
+A command-line game where players try to guess a randomly generated number between 1 and 100! This project demonstrates clean code, and user interaction.  
 
 ## ✨ Features  
 ✅ **Random Number Generation** (1-100) 🎲  
